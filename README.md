@@ -8,7 +8,7 @@ You can watch a demo of my software on YouTube: [Software Demo Video](https://yo
 
 # Development Environment
 
-*Visual Studio Code
+*Visual Studio code
 *Python 3.12.1
 *Git /  GitHub
 
